@@ -1,0 +1,10 @@
+c:\users\brian\source\repos\ACRandomizer\ACRandomizer\bin\Debug\ACRandomizer.exe.config
+c:\users\brian\source\repos\ACRandomizer\ACRandomizer\bin\Debug\ACRandomizer.exe
+c:\users\brian\source\repos\ACRandomizer\ACRandomizer\bin\Debug\ACRandomizer.pdb
+c:\users\brian\source\repos\ACRandomizer\ACRandomizer\obj\Debug\ACRandomizer.csprojResolveAssemblyReference.cache
+c:\users\brian\source\repos\ACRandomizer\ACRandomizer\obj\Debug\ACRandomizer.Form1.resources
+c:\users\brian\source\repos\ACRandomizer\ACRandomizer\obj\Debug\ACRandomizer.Properties.Resources.resources
+c:\users\brian\source\repos\ACRandomizer\ACRandomizer\obj\Debug\ACRandomizer.csproj.GenerateResource.cache
+c:\users\brian\source\repos\ACRandomizer\ACRandomizer\obj\Debug\ACRandomizer.csproj.CoreCompileInputs.cache
+c:\users\brian\source\repos\ACRandomizer\ACRandomizer\obj\Debug\ACRandomizer.exe
+c:\users\brian\source\repos\ACRandomizer\ACRandomizer\obj\Debug\ACRandomizer.pdb
